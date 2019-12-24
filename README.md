@@ -11,7 +11,9 @@
 - [x] 初步了解Kotlin语法及特性，达到基本能看懂Kotlin代码的程度。  
 
 - [ ] 阅读实力项目[sunflower](https://github.com/android/sunflower)源码，做笔记。  
-[KotlinNote01:委托属性viewModel](/pages/p1.md)
+
+[开源项目sunflower学习01:委托属性viewModel](pages/p1.md)  
+[开源项目sunflower学习02:ListAdapter封装DiffUtil的原理](pages/p2.md)
 
 - [ ] 使用Kotlin做一个功能比较齐全的练手项目。
 
